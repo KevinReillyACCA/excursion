@@ -30,3 +30,7 @@ a{
   color: aquamarine;
   font-weight: bold;
 }
+ .copyright{
+   color: grey;
+   text-align: right;
+ }
